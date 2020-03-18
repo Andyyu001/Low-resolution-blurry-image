@@ -18,4 +18,4 @@
 
 6 To learn image super-resolution, use a GAN to learn how to do image degradation first
 [code: https://github.com/Flaick/LR-License-Plate-Generation]
-学了一个循环，从高清到低质，再到高清
+学了一个循环，从高清到低质，再到高清；但是其中的低质图像判别器，所选用的真实低质图像是否符合实际的分布呢？
