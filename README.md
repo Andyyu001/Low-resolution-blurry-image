@@ -12,6 +12,6 @@
 
 4.Adjusted Non-Local Regression and Directional Smoothness for Image Restoration
 
-5. Face Video Deblurring using 3D Facial Priors\\
+5. Face Video Deblurring using 3D Facial Priors 
 [code: https://github.com/rwenqi/3Dfacedeblurring]
 借助3D人脸的mask作为引导。和传统的方法相比，有种边缘效应（边缘结构信息的补全），可以借鉴
