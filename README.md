@@ -15,3 +15,7 @@
 5. Face Video Deblurring using 3D Facial Priors 
 [code: https://github.com/rwenqi/3Dfacedeblurring]
 借助3D人脸的mask作为引导。和传统的方法相比，有种边缘效应（边缘结构信息的补全），可以借鉴
+
+6 To learn image super-resolution, use a GAN to learn how to do image degradation first
+[code: https://github.com/Flaick/LR-License-Plate-Generation]
+学了一个循环，从高清到低质，再到高清
